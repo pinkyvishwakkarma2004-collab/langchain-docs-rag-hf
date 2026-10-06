@@ -1,0 +1,7 @@
+deepagents
+langchain
+langchain-google-genai
+langchain-huggingface
+langchain-text-splitters
+sentence-transformers
+requests
